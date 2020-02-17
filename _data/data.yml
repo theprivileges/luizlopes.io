@@ -1,0 +1,92 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    # Profile information
+    name: Luiz Lopes
+    tagline: Senior Software Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: luiz@wickeddeveloper.com
+    phone: 407 459-4757
+    website: wickeddeveloper.com 
+    linkedin:
+    github: theprivileges
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: luizlopes
+    codewars:
+    goodreads:
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Portuguese
+        level: Native
+
+    interests:
+      - item: Yoga
+        link: 
+
+      - item: Brazilian Jiu-Jitsu
+        link:
+
+      - item: Snowboarding
+        link:
+
+      - item: Reading
+        link:
+
+career-profile:
+    title: Professional Summary
+    summary: |
+      Dynamic and creative Senior Software Engineer with a strong focus on front-end technologies. Always searching for ways to automate repetitive tasks.
+
+experiences:
+    - role: Senior Software Engineer — Team&nbsp;Lead
+      time: Jun 2018 - Present
+      company: Submittable.com, Missoula, MT
+      details: |
+        Provide support and leadership to ensure the team is successful.
+          - Author functional specification documents based on business requirements.
+          - Develop systems to speed up cycle time, and increase developer satisfaction.
+          - Build prototypes and scaffolding during ideation.
+
+    - role: Senior Software Engineer
+      time: Jul 2015 -  Jun 2018
+      company: eNotes.com, Seattle, WA
+      details: |
+        Built customer facing features, as well as internal tools that improved code quality.
+          - Improved backend functionality by profiling high traffic controllers, and optimizing slow procedures.
+          - Built front-end for the payment processing module, with attention to ui/ux.
+          - Introduced coding standards for front-end code, and implemented tools to enforce those standards. 
+
+    - role: JavaScript Engineer
+      time: Dec 2012 - Oct 2014
+      company: appendTo, Inc., Remote
+      details: |
+        Built web applications for many clients. Projects leveraged many JavaScript libraries, and other front-end technologies.
+          - Reviewed technical design documents for different projects.
+          - Wrote several modules used in an internal CI/CD project running on nodeJS.
+          - Co-authored a simple front-end framework that was open-sourced.
+
+    - role: Full-Stack Engineer
+      time: Apr 2012 - Dec 2012
+      company: Project VoteSmart, Philipsburg, MT
+      details: |
+        Optimized website ahead of 2012 US Presidential Election.
+          - Developed tool to resize photos uploaded by data-entry team.
+          - Implemented bundling tool which minified and uglified all front-end files.
+          - Wrote guideline for building accessible components. 
+
+    - role: Web Application Developer
+      time: Jan 2011 - Apr 2012
+      company: Avectra, Inc., Orlando, FL
+      details: |
+        Developed client facing features, and worked on "skunk works" projects.
+          - Developed ETL process tools used by other teams.
+          - Prototyped many front-end features to confirm stakeholder ideas.

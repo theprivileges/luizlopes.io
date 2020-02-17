@@ -1,0 +1,40 @@
+@media print {
+  @page {
+    size: A4;
+  }
+  *,:before,:after {
+    color: inherit !important;
+  }
+  a[href]:after {
+    content: normal !important;
+  }
+  body {
+    font-size: small;
+    padding: 0;
+    -webkit-print-color-adjust: exact;
+  }
+  .wrapper {
+    display: grid;
+    grid-template-columns: auto 240px;
+    grid-template-areas: "content sidebar";
+  }
+
+  .sidebar-wrapper {
+     height: 100vh;
+  }
+
+  .section-title {
+    font-size: medium;
+  }
+
+  .remove-container.container-block {
+    display: none;
+  }
+
+  .job-title {
+    overflow-wrap: break-word;
+    white-space: pre-line;
+    hyphens: auto;
+  }
+  
+}
