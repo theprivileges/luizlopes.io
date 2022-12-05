@@ -53,14 +53,14 @@ experiences:
       details: |
         Built and managed a team of engineers responsible for multiple product offerings.
           - Oversaw full SDLC and process management approach for all application and infrastructure projects.
-          - Developed ETL process used to power analytics tool built by data engineers.
+          - Developed ETL process used to power analytics tool used by data engineers.
           - Collaborated with members of Product and Design to complete technical aspects of projects.
 
     - role: Senior Software Engineer — Tech&nbsp;Lead
       time: Nov 2020 - Sep 2021
       company: Delphi Digital, Remote
       details: |
-        Worked across multiple customer and internal facing applications building good practices along the way.
+        Worked across multiple customer and internal facing applications, building good practices along the way.
           - Designed and developed analytical charting tool used internally.
           - Reviewed code, and implemented CI/CD across the multiple projects.
           - Architected and implemented cloud infrastructure used to power all applications.
@@ -70,15 +70,15 @@ experiences:
       company: eNotes.com, Seattle, WA
       details: |
         Built customer facing features, as well as internal tools that improved code quality.
-          - Improved backend functionality by profiling high traffic controllers, and optimizing slow procedures.
+          - Improved backend functionality by profiling high traffic controllers and optimizing slow procedures.
           - Built front-end for the payment processing module, with attention to ui/ux.
-          - Introduced coding standards for front-end code, and implemented tools to enforce those standards. 
+          - Introduced coding standards for front-end code and implemented tools to enforce those standards. 
 
     - role: JavaScript Engineer
       time: Dec 2012 - Oct 2014
       company: appendTo, Inc., Remote
       details: |
-        Built web applications for many clients. Projects leveraged many JavaScript libraries, and other front-end technologies.
+        Built web applications for many clients. Projects leveraged many JavaScript libraries and other front-end technologies.
           - Reviewed technical design documents for different projects.
           - Wrote several modules used in an internal CI/CD project running on nodeJS.
           - Co-authored a simple front-end framework that was open-sourced.
