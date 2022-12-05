@@ -5,7 +5,7 @@
 sidebar:
     # Profile information
     name: Luiz Lopes
-    tagline: Senior Software Engineer
+    tagline: Technical Engineering Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -14,10 +14,10 @@ sidebar:
     website: wickeddeveloper.com 
     linkedin:
     github: theprivileges
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: luizlopes
+    gitlab: theprivileges
+    bitbucket: theprivileges
+    twitter: theprivileges
+    stack-overflow:
     codewars:
     goodreads:
 
@@ -44,17 +44,26 @@ sidebar:
 career-profile:
     title: Professional Summary
     summary: |
-      Dynamic and creative Senior Software Engineer with a strong focus on front-end technologies. Always searching for ways to automate repetitive tasks.
+      Dynamic and creative Engineering Manager who does not shy away from getting his hands dirty. Always searching for ways to automate repetitive tasks.
 
 experiences:
-    - role: Senior Software Engineer — Team&nbsp;Lead
-      time: Jun 2018 - Present
-      company: Submittable.com, Missoula, MT
+    - role: VP of Engineering
+      time: Sep 2021 - Dec 2022
+      company: Delphi Digital, Remote
       details: |
-        Provide support and leadership to ensure the team is successful.
-          - Author functional specification documents based on business requirements.
-          - Develop systems to speed up cycle time, and increase developer satisfaction.
-          - Build prototypes and scaffolding during ideation.
+        Built and managed a team of engineers responsible for multiple product offerings.
+          - Oversaw full SDLC and process management approach for all application and infrastructure projects.
+          - Developed ETL process used to power analytics tool built by data engineers.
+          - Collaborated with members of Product and Design to complete technical aspects of projects.
+
+    - role: Senior Software Engineer — Tech&nbsp;Lead
+      time: Nov 2020 - Sep 2021
+      company: Delphi Digital, Remote
+      details: |
+        Worked across multiple customer and internal facing applications building good practices along the way.
+          - Designed and developed analytical charting tool used internally.
+          - Reviewed code, and implemented CI/CD across the multiple projects.
+          - Architected and implemented cloud infrastructure used to power all applications.
 
     - role: Senior Software Engineer
       time: Jul 2015 -  Jun 2018
