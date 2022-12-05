@@ -49,6 +49,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.angellist%}
+    <li class="stack-overflow"><i class="fab fa-angellist" aria-hidden="true"></i>
+      <a href="https://angel.co/u/{{ sidebar.angellist }}" target="_blank" rel="noreferrer noopener"><span class="contact-info">{{ sidebar.angellist | replace: "-", " " }}</span></a>
+    </li>
+    {% endif %}
+    
     {% if sidebar.stack-overflow %}
     <li class="stack-overflow"><i class="fab fa-stack-overflow" aria-hidden="true"></i>
       <a href="https://stackoverflow.com/story/{{ sidebar.stack-overflow }}" target="_blank" rel="noreferrer noopener"><span class="contact-info">{{ sidebar.stack-overflow }}</span></a>
