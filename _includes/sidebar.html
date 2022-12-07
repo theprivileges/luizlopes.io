@@ -4,7 +4,7 @@
   <div class="profile-container">
 
     {% if sidebar.name %}
-    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    <img class="avatar" src="{{ sidebar.avatar }}" alt="profile picture" />
     {% endif %}
 
     {% if sidebar.name %}
@@ -19,6 +19,7 @@
 
   {% include contact.html %}
   {% include language.html %}
+  {% include skills.html %}
   {% include interests.html %}
 
 </div><!--//sidebar-wrapper-->
