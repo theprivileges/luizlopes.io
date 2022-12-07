@@ -1,18 +1,6 @@
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
 
-    body{
-        padding: 0;
-    }
-
-    .wrapper {
-        grid-template-columns: auto 140px;
-    }
-
-    .main-wrapper {
-        padding: 10px;
-    }
-
     .main-wrapper .time {
         position: static;
         display: block;
@@ -29,7 +17,10 @@
 @media (min-width: 768px) {
 
     .wrapper {
-        grid-template-columns: auto 260px;
+        grid-template-columns: auto;
+        grid-template-areas: 
+            "sidebar"
+            "content";
     }
 
     .main-wrapper {
@@ -40,6 +31,11 @@
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
+
+    .wrapper {
+        grid-template-columns: auto 280px;
+        grid-template-areas: "content sidebar";
+    }
 
 }
 

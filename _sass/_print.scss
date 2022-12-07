@@ -11,7 +11,7 @@
   body {
     font-size: small;
     padding: 0;
-    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
   }
   .wrapper {
     display: grid;
@@ -35,6 +35,10 @@
     overflow-wrap: break-word;
     white-space: pre-line;
     hyphens: auto;
+  }
+
+  .interests-container {
+    display: none;
   }
   
 }
