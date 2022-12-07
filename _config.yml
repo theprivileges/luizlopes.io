@@ -1,13 +1,13 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Luiz Lopes — Technical Engineering Manager
-url: 'http://luizlopes.io'
+title: Luiz Lopes — VP of Engineering
+url: 'https://luizlopes.io'
 baseurl: '' #change it according to your repository name
-description: Résumé of Luiz Lopes, a Technical Software Engineering Manager based in Missoula, MT
+description: Résumé of Luiz Lopes, a VP of Engineering based in Missoula, MT.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
-chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+chrome_mobile_color: '#358699' #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 
 # Sass/SCSS
