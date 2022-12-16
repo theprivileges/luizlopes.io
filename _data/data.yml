@@ -45,14 +45,14 @@ sidebar:
 career-profile:
     title: Professional Summary
     summary: |
-      Dynamic and creative VP of Engineering who does not shy away from getting his hands dirty. Always searching for ways to automate repetitive tasks.
+      Professional, experienced software engineering VP with over 15 years in the industry.  Proficient with software development lifecycle process, coding and development and product management.  Hired and managed teams of software engineers building full-stack web applications and ETL processes.  Worked alongside designers and product managers to complete technical aspects of projects.
 
 experiences:
     - role: VP of Engineering
       time: Sep 2021 - Dec 2022
       company: Delphi Digital, Remote
       details: |
-        Built and managed a team of engineers responsible for multiple product offerings.
+        Built and managed teams of software engineers responsible for multiple product offerings.
           - Oversaw full SDLC and process management approach for all application and infrastructure projects.
           - Developed ETL process used to power analytics tool used by data engineers.
           - Collaborated with members of Product and Design to complete technical aspects of projects.
@@ -103,7 +103,9 @@ experiences:
 skills:
   title: Skills
   toolset:
+    - name: Building high performance software development teams
     - name: Project management and leadership
     - name: Coding and app development, JavaScript and PHP
     - name: Cloud Infrastructure, GCP and AWS
+    - name: UI/UX best practices
   
