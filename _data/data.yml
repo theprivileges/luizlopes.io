@@ -5,7 +5,7 @@
 sidebar:
     # Profile information
     name: Luiz Lopes
-    tagline: VP of Engineering
+    tagline: Sr. DevOps Engineer
     avatar: https://avatars0.githubusercontent.com/theprivileges?v=3&s=100  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,9 +16,9 @@ sidebar:
     github: theprivileges
     # gitlab: theprivileges
     # bitbucket: theprivileges
-    twitter: theprivileges
+    # twitter: theprivileges
     angellist: luiz-lopes
-    stack-overflow:
+    stack-overflow: theprivileges
     codewars:
     goodreads:
 
@@ -30,13 +30,13 @@ sidebar:
         level: Native
 
     interests:
-      - item: Yoga
+      - item: Hiking
         link: 
 
       - item: Brazilian Jiu-Jitsu
         link:
 
-      - item: Snowboarding
+      - item: Camping
         link:
 
       - item: Reading
@@ -45,17 +45,20 @@ sidebar:
 career-profile:
     title: Professional Summary
     summary: |
-      Professional, experienced software engineering VP with over 15 years in the industry.  Proficient with software development lifecycle process, coding and development and product management.  Hired and managed teams of software engineers building full-stack web applications and ETL processes.  Worked alongside designers and product managers to complete technical aspects of projects.
+      Seasoned software development professional with over 15 years of experience in the industry. Expertise in the full software development lifecycle, coding, and product management. Proven track record in hiring and managing high-performance software development teams, building full-stack web applications, and developing ETL processes. Adept at collaborating with designers and product managers to deliver comprehensive technical solutions.
 
 experiences:
+    - role: Sr. DevOps Developer
+      time: Jan 2023 - current
+      company: ENERCALC, LLC, Remote
+      details: |
+        Built and managed the entire cloud infrastructure, including servers, microservices, databases, and pipelines. Implemented best practices for AWS Cloud management to enhance speed and security. Developed automated processes to streamline software delivery and introduced AWS CDK (Infrastructure as Code) to the company.
+
     - role: VP of Engineering
       time: Sep 2021 - Dec 2022
       company: Delphi Digital, Remote
       details: |
-        Built and managed teams of software engineers responsible for multiple product offerings.
-          - Oversaw full SDLC and process management approach for all application and infrastructure projects.
-          - Developed ETL process used to power analytics tool used by data engineers.
-          - Collaborated with members of Product and Design to complete technical aspects of projects.
+        Led and managed teams of software engineers across multiple product offerings. Oversaw the full software development lifecycle and process management for all application and infrastructure projects. Developed ETL processes to power analytics tools for data engineers. Collaborated with Product and Design teams to deliver technical solutions.
 
     - role: Senior Software Engineer — Tech&nbsp;Lead
       time: Nov 2020 - Sep 2021
@@ -88,7 +91,7 @@ experiences:
       time: Apr 2012 - Dec 2012
       company: Project VoteSmart, Philipsburg, MT
       details: |
-        Optimized website ahead of 2012 US Presidential Election.
+        Optimized website ahead of 2012 US Presidential Election, resulting in a 30% increase in site performance.
           - Developed tool to resize photos uploaded by data-entry team.
           - Implemented bundling tool which minified and uglified all front-end files.
           - Wrote guideline for building accessible components. 

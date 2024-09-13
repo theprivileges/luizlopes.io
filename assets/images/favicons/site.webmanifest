@@ -1,0 +1,20 @@
+{
+    "name": "Luiz Lopes",
+    "short_name": "luizlopes.io",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#42A8C0",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "https://luizlopes.io"
+}
